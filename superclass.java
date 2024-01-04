@@ -30,7 +30,6 @@ public class superclass {
             System.out.println("Lap " + (i + 1) + ": " + lapTimes[i]);
         }
 
-
         scanner.close();
     }
 }
